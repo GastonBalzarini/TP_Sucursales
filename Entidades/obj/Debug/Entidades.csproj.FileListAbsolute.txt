@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\bin\Debug\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\bin\Debug\Entidades.pdb
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.dll
+C:\Users\PC\Desktop\Gaston facultad\PROGRA 3\TP 8\TP8_GRUPO_NRO_14\Entidades\obj\Debug\Entidades.pdb
